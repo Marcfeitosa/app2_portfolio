@@ -11,7 +11,7 @@ with col1:
 with col2:
     st.title("Márcio Feitosa")
     content = """
-    plug in my test"""
+    plug in my text"""
 
     st.write(content)
 
